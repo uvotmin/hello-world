@@ -1,1 +1,2 @@
 # hello-world
+I am currently in high school where I learn programming in C, Java, HTML, CSS, Javascript and more, as well as database design and soon SQL. Recently, I started learning Flutter because I believe it's the future of mobile development, which is a great interest of mine. I also really like writing stories and poems and that skill can help me make my future programming projects more entertaining to users.
